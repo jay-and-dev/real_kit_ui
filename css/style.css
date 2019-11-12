@@ -27,3 +27,7 @@ footer {
 h1 {
   font-weight: bold;
 }
+
+.card-event {
+  height: 150px;
+}
